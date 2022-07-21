@@ -10,7 +10,7 @@
   ## Description
   AS A manager at an internet retail company I WANT a back end for my e-commerce website that uses the latest technologies SO THAT my company can compete with other e-commerce companies
   ## Installation
-  Clone the the repo, Install all the dependencies, npm install seed, make sure to install mysql, use the databse, source db/schema and install Insomnia
+  Clone the the repo, Install all the dependencies, npm install seed, make sure to install mysql, use the database, source db/schema and install Insomnia
   ## Built With
   JavaScript, Node, Express, MySQL, Sequelize.
   ## Contribution 
