@@ -17,7 +17,8 @@
   Samuel Garcia
 
   ## Walkthrough Video
-  https://user-images.githubusercontent.com/100814742/180348622-a864a582-e31c-449e-9b04-665d588660cd.mp4
+ 
+https://user-images.githubusercontent.com/100814742/180349089-267c0a94-88b4-4b87-8f77-9c79c58bb701.mp4
 
 
 
